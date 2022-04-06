@@ -22,7 +22,7 @@ This level feels like an improvement over the Wild West chaos of v0, and it migh
 
 ### #yoloprod v3 : happy #yolo
 
-Version three (wait, what happened to two?!) of #yoloorod is the ideal. It's #yolo with guard rails, and enough process and automation to keep you safe without slowing you down.
+Version three (wait, what happened to two?!) of #yoloprod is the ideal. It's #yolo with guard rails, and enough process and automation to keep you safe without slowing you down.
 
 You do whatever you want.  The guard rails keep you from breaking the world.  If you happen to break something, congratulations!  You just found an edge case.  Someone (maybe you) will be along shortly to add another rail to prevent the same problem in the future.  And your change has been rolled back automatically, so don't worry about that, either.
 
